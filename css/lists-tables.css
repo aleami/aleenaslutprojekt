@@ -65,5 +65,13 @@
         border-radius: 10px 100px / 120px;
         
         }
-
+ 
+ @media screen and (max-width: 600px) {
+  .ordered {   
+    padding: 30px;
+      margin-top: 10px;
+      width: 100%;
+  
+  }
+}
         
