@@ -4,112 +4,18 @@ body {
   background: #c8edf0;
 }
 
-/* Header/Blog Title */
+
 .header {
   padding: 10px;
   font-size: 20px;
   text-align: center;
+  font-family:  cursive;
   background: white;
+  margin-bottom: 20px;
+  border-style:double;
+  border-color: navy;
 }
-
-a {
-  text-decoration: none;
-  display: inline-block;
-  padding: 8px 16px;
-  text-align: center;
-  }
-    
-    a:hover {
-    background-color: #ddd;
-    color: black;
-    text-align: center;
-    }
-    
-    .previous {
-    background-color: #f1f1f1;
-    color: black;
-    text-align: center;
-    }
-    
-    .next {
-    background-color: rgb(243, 9, 87);
-    color: white;
-    text-align: center;
-    }
-    
-    .round {
-    border-radius: 50%;
-    text-align: center;
-    }
-
-   
-    /* Create two unequal columns that floats next to each other */
-    /* Left column */
-    .leftcolumn {
-      float: left;
-      width: 66%;
-    }
-    
-    /* Right column */
-    .rightcolumn {
-      float: left;
-      width: 30%;
-      
-    }
-    
-    /* Fake image */
-    .fakeimg {
-      background-color: #aaa;
-      padding: 20px;
-    }
-    
-    /* Add a card effect for articles */
-    .card {
-      background-color: white;
-      padding: 20px;
-      margin-top: 20px;
-      width: 600px;
-      border-style:groove;
-    
-      
-    }
-    .cards {
-      background-color: white;
-      padding: 20px;
-      margin-top: 20px;
-      width: 350px;
-      border-style:groove;
-      text-align: center;
-    }
-
-    .main {
-        background-color: white;
-        padding: 45px;
-        margin-top: 20px;
-        width: 300px;
-        border-style:groove;
-      
-      
-
-    }
-
-    
-    /* Clear floats after the columns */
-    .row:after {
-      content:"";
-      display: table;
-      clear: both;
-    }
-    
-    /* Footer */
-.footer {
-    padding: 20px;
-    text-align: center;
-    background: #ddd;
-    margin-top: 20px;
-    }
   
-    
 ul.navbar {
   list-style-type: none;
   margin: 0;
@@ -138,9 +44,10 @@ ul.navbar li a {
 }
 
 
-ul.navbar li a:hover:not(.active) {background-color: rgb(202, 32, 75);}
+ul.navbar li a:hover:not(.active) {background-color: rgb(202, 32, 75); color: white;}
 
-ul.navbar li a.active {background-color: rgb(202, 32, 75);}
+ul.navbar li a.active {background-color: rgb(202, 32, 75);
+color: white;}
 
 ul.navbar li.right {
   float: right;
@@ -149,8 +56,8 @@ ul.navbar li.right {
 @media screen and (max-width: 600px) {
   ul.navbar li.right, 
   ul.navbar li {float: none;}
+ 
 }
-
 
 .navbar li:hover,
 .dropdown:hover {
@@ -212,6 +119,76 @@ ul.navbar li.right {
 	display: block
 }
 
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+  text-align: center;
+  }
+    
+  a:hover {
+    background-color: rgba(0, 0, 0, 0.753);
+    color: white;
+    text-align: center;
+    }
+    
+    .previous {
+    background-color: #12f8ed;
+    color: black;
+    text-align: center;
+    }
+    
+    .next {
+    background-color: rgb(243, 9, 87);
+    color: black;
+    text-align: center;
+    }
+
+   
+    .leftcolumn {
+      float: left;
+      border-width: 10px;
+     text-align: center;
+     margin-right: 300px;
+    
+    }
+   
+    .rightcolumn {
+      float: left;
+      width: 20%;
+      
+    }
+
+    .card {
+      background-color: white;
+      padding: 20px;
+      margin-top: 20px;
+      width: 350px;
+      border-style:groove;
+      text-align: center;
+    }
+
+    .main {
+        background-color: white;
+        padding: 45px;
+        margin-top: 20px;
+        width: 300px;
+        border-style:groove;
+
+    }
+    .row:after {
+      content:"";
+      display: table;
+      clear: both;
+    }
+
+.footer {
+    padding: 20px;
+    text-align: center;
+    background: #ddd;
+    margin-top: 20px;
+    }
+
 .food {
   text-align: center;
   color:white;
@@ -235,6 +212,8 @@ ul.navbar li.right {
   width: 90%;
 padding-left: 50px;
 }
+
+  
 .rightcolumn2 {
   float: left;
   width: 32%;
@@ -245,27 +224,92 @@ padding-left: 50px;
   width: 32%;
 }
 
-/* On screens that are 992px wide or less, go from four columns to two columns */
-@media screen and (max-width: 600px) {
-  .leftcolumn {
-    width: 80%;
-    
-
-  }
-  /* On screens that are 992px wide or less, go from four columns to two columns */
-@media screen and (max-width: 600px) {
-  .leftcolumn2 {
-    width: 100%;
-
-  }
-
-   /* On screens that are 992px wide or less, go from four columns to two columns */
-@media screen and (max-width: 600px) {
-  .rightcolumn2 {
-    width: 100%;
-
-  }
+.cards {
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+  width: 350px;
+  border-style:groove;
+  text-align: center;
+  margin: 20px;
 }
-}
+
+@media screen and (max-width: 600px) {
+  .main{   
+    padding: 80px;
+      margin-top: 10px;
+      width: 100%;
+      text-align: center;
   
+  }
+    
+@media screen and (max-width: 600px) {
+  .leftcolumn{   
+    padding: 1px;
+      margin-top: 10px;
+      width: 100%;
+      
+  }
+
+  @media screen and (max-width: 600px) {
+    .rightcolumn{   
+      padding: 1px;
+        margin-top: 10px;
+        width: 50%;
+        
+    }
+  }
+   
+@media screen and (max-width: 600px) {
+  .card{   
+    padding: 80px;
+      margin-top: 10px;
+      width: 100%;
+      border-style:groove;
+   
+
+  
+  }
+  @media screen and (max-width: 600px) {
+    .cards{   
+        width: 240px;
+        border-style:groove;  
+        margin: 10px;
+      padding: 15px;
+
+    }
+
+     
+@media screen and (max-width: 600px) {
+  .card a{   
+    padding: 40px;
+      margin-top: 10px;
+      width: 30%;
+      border-style:groove;
+      text-align: center;
+
+
+  
+  }
+}
+
+  }
+ 
+@media screen and (max-width: 600px) {
+  .rightcolumn2{  
+      margin-top: 10px;
+    width: 100%;
+      
+  }
+  
+@media screen and (max-width: 600px) {
+  .leftcolumn2 {   
+      margin-top: 10px;
+  margin-left: 0;
+
+  }
+}
+}
+}
+}
 }
