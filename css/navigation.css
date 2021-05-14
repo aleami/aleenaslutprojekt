@@ -44,9 +44,9 @@ ul.navbar li a {
 }
 
 
-ul.navbar li a:hover:not(.active) {background-color: rgb(202, 32, 75); color: white;}
+ul.navbar li a:hover:not(.active) {background-color: rgb(168, 22, 59); color: white;}
 
-ul.navbar li a.active {background-color: rgb(202, 32, 75);
+ul.navbar li a.active {background-color: rgb(168, 22, 59);
 color: white;}
 
 ul.navbar li.right {
@@ -61,8 +61,8 @@ ul.navbar li.right {
 
 .navbar li:hover,
 .dropdown:hover {
-	background-color: rgb(202, 32, 75);
-	color: white
+	background-color: rgb(168, 22, 59);
+	color: white;
 }
 
 .navbar .search-icon {
