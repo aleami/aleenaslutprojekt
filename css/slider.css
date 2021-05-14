@@ -3,15 +3,13 @@
     ul.navbar li {float: none;}
   }
 .div-content {
-
-    margin-left: 95px;
-    
-    margin-right: auto;
-    
-  text-align: center;
-    
+    border-style: double;
+    border-width:8px;
+    border-color: darkgrey;
+    border-radius: 25px;
+    overflow: hidden;
     position: relative;
-    
+
     }
     
     .slider-button {
@@ -20,7 +18,7 @@
     
     display: block;
     
-    padding: 10px 10px;
+    padding: 9px 9px;
     
     overflow: hidden;
     
@@ -34,13 +32,14 @@
     
     cursor:pointer;
     
+    
     white-space: nowrap;
     
     position: absolute;
     
     top: 50%;
 
-    left: 365px;
+    left: 465px;
  
     font-size: 16px;
     transform: translate(0%, -50%);
@@ -54,6 +53,8 @@
     color: black;
     
     background-color: rgb(243, 9, 87);
+
+    border-style:groove;
     
     }
     
@@ -70,4 +71,27 @@
     
     }
 
+     
+@media screen and (max-width: 600px) {
+  .div-content {   
+    margin-left: 10px;
+    
+    margin-right: 10px;
+    
+  text-align: center;
+    
+    position: relative;
+      margin-top: 10px;
+      width: 100%;
+
   
+  }
+  @media screen and (max-width: 600px) {
+    .slider-button{  
+  left: unset;
+ margin-left: 10px;
+      
+
+}
+}
+}
