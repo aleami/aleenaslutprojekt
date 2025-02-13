@@ -92,13 +92,13 @@ _CSS_ - Used to design and style the website for a visually appealing experience
 
 **📦 How to View the Project**
 
-You can access this project online via this link 🔗: [aleenaslutprojekt](https://aleami.github.io/aleenaslutprojekt/)
+You can access this project online via this link 🔗: [Aleena´s Final project in Web Development](https://aleami.github.io/final-project-web-development/)
 
 Alternatively, if you want to run it locally on your computer, follow these steps:
 
-1️⃣ Clone the repository by copying the project files to your local machine: git clone https://github.com/aleami/aleenaslutprojekt.git
+1️⃣ Clone the repository by copying the project files to your local machine: git clone https://github.com/aleami/final-project-web-development.git
 
-2️⃣ Navigate to the project directory: cd aleenaslutprojekt
+2️⃣ Navigate to the project directory: cd final-project-web-development
 
 3️⃣ Open index.html in your web browser to view the homepage.
 
