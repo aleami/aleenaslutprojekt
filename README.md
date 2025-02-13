@@ -26,7 +26,7 @@ _Homepage_
 
 Shows the main landing page with featured dishes.
 
-![Homepage Screenshot](![image](https://github.com/user-attachments/assets/6bc88594-5ffd-408e-81d0-657f50e87224))
+<img width="1418" alt="Screenshot 2025-02-13 at 20 57 40" src="https://github.com/user-attachments/assets/1e6cd2bc-5f28-47c1-8604-114474d68596" />
 
 _Recipe Page_
 
@@ -54,6 +54,7 @@ _Om oss_
 About us page, a description about me.
 
 ![About us page Screenshot](![image](https://github.com/user-attachments/assets/6bc88594-5ffd-408e-81d0-657f50e87224))
+
 **📸 Image Credits**
 
 The images used in this project are sourced from Unsplash. Unsplash provides free, high-quality images for public use. A big thank you to the talented photographers whose work enhances this project!
@@ -63,12 +64,19 @@ The images used in this project are sourced from Unsplash. Unsplash provides fre
 This project consists of multiple files and folders to keep content well-organized:
 
 📁 bilder/        # Folder containing images used in the website
+
 📁 css/           # Folder containing CSS files for styling
+
 📄 about.html     # About page with information about me
+
 📄 food.html      # Section dedicated to different foods
+
 📄 image-slider.js # JavaScript file managing the image slider functionality
+
 📄 index.html     # Homepage of the website
+
 📄 lagar.html     # Page explaining laws and regulations
+
 📄 recept.html    # Recipe page featuring various dishes
 
 **🎨 Technologies Used**
