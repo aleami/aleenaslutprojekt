@@ -1,6 +1,6 @@
 **Aleenas Matblogg**
 
-**🚀 _About This Project_**
+**👩‍💻 _About This Project_**
 
 Welcome to **Aleenas Matblogg!** This website is a personal food blog where I share my favorite recipes and introduce you to Pakistani culinary culture. This project was created as part of my final coursework at _Arena Academy_ to showcase my skills in web development using HTML and CSS.
 
@@ -12,44 +12,46 @@ The goal of this project is to provide an easy-to-navigate food blog that introd
 
 📜 _**Recept**_ - A collection of delicious recipes with ingredients and instructions.
 
-📚 _**Pakistansk matkultur**_ - Insights into the rich and diverse Pakistani food culture.
+🇵🇰 _**Pakistansk matkultur**_ - Insights into the rich and diverse Pakistani food culture.
 
 📋 _**Lagar & Regler**_ - Information on general laws and regulations.
 
-👩‍🍳 _**Om oss**_ - A section about me and fictional people who helped me in this project.
+👥 _**Om oss**_ - A section about me and fictional people who helped me in this project.
 
 📷 **Screenshots**
 
 Including some visuals helps visitors quickly understand the website's structure and design. Below are key screenshots showcasing different sections of the blog.
 
-_Homepage_
+
+**_Homepage_**
 
 Shows the main landing page with featured dishes.
 
 <img width="1000" alt="Screenshot 2025-02-13 at 20 57 40" src="https://github.com/user-attachments/assets/1e6cd2bc-5f28-47c1-8604-114474d68596" />
 
-_Recipe Page_
+
+**_Recipe Page_**
 
 Displays a recipe with link to ingredients and instructions.
 
 <img width="1000" alt="Screenshot 2025-02-13 at 20 59 00" src="https://github.com/user-attachments/assets/4c848a87-1c27-4fc3-aa6c-56efae0cb83c" />
 
 
-_Pakistani Food Culture Page_
+**_Pakistani Food Culture Page_**
 
 Contains insights and descriptions about Pakistani food traditions.
 
 <img width="1000" alt="Screenshot 2025-02-13 at 21 01 00" src="https://github.com/user-attachments/assets/e98ad50b-8473-4835-8fc4-a489b963a793" />
 
 
-_Laws & Regulations Page_
+**_Laws & Regulations Page_**
 
 Provides information about laws and regulations.
 
 <img width="1000" alt="Screenshot 2025-02-13 at 20 59 38" src="https://github.com/user-attachments/assets/f23ba4b9-68c6-444e-91e9-560f71d08947" />
 
 
-_Om oss_
+**_Om oss_**
 
 About us page, a description about me.
 
@@ -80,7 +82,7 @@ This project consists of multiple files and folders to keep content well-organiz
 
 📄 recept.html    # Recipe page featuring various dishes
 
-**🎨 Technologies Used**
+**💻 Technologies Used**
 
 This website was built using the following technologies:
 
@@ -90,19 +92,15 @@ _CSS_ - Used to design and style the website for a visually appealing experience
 
 **📦 How to View the Project**
 
-You can access this project online via this link.
+You can access this project online via this link 🔗: [aleenaslutprojekt](https://aleami.github.io/aleenaslutprojekt/)
 
 Alternatively, if you want to run it locally on your computer, follow these steps:
 
-Clone the repository by copying the project files to your local machine:
+1️⃣ Clone the repository by copying the project files to your local machine: git clone https://github.com/aleami/aleenaslutprojekt.git
 
-git clone https://github.com/aleami/aleenaslutprojekt.git
+2️⃣ Navigate to the project directory: cd aleenaslutprojekt
 
-Navigate to the project directory:
-
-cd aleenaslutprojekt
-
-Open index.html in your web browser to view the homepage.
+3️⃣ Open index.html in your web browser to view the homepage.
 
 **🚀 How to Use the Website**
 
@@ -114,7 +112,7 @@ Read about _Pakistani food culture_ to learn more about traditions.
 
 The _Lagar & Regler_ page provides insights into laws and safety regulations.
 
-**📜 Purpose of the Project**
+**🤔 Purpose of the Project**
 
 This project was developed as part of my coursework at Arena Academy where i studied information and media tecnology. It serves as an educational exercise in my webdevelopement course; to demonstrate my ability to:
 
@@ -144,7 +142,7 @@ git push origin feature/your-feature-name
 
 Submit a pull request to request a review of your changes.
 
-**📬 Contact**
+**✉️ Contact**
 
 If you have any questions, feel free to reach out!
 
