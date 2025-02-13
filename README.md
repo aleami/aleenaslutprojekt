@@ -104,13 +104,13 @@ Alternatively, if you want to run it locally on your computer, follow these step
 
 **🚀 How to Use the Website**
 
-The _homepage_ (index.html) gives an overview of featured dishes.
+- The _homepage_ (index.html) gives an overview of featured dishes.
 
-Navigate to the _Recept_ page to explore various recipes.
+- Navigate to the _Recept_ page to explore various recipes.
 
-Read about _Pakistani food culture_ to learn more about traditions.
+- Read about _Pakistani food culture_ to learn more about traditions.
 
-The _Lagar & Regler_ page provides insights into laws and safety regulations.
+- The _Lagar & Regler_ page provides insights into laws and safety regulations.
 
 **🤔 Purpose of the Project**
 
