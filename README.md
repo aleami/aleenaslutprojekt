@@ -97,6 +97,7 @@ You can access this project online via this link 🔗: [Aleena´s Final project 
 Alternatively, if you want to run it locally on your computer, follow these steps:
 
 1️⃣ Clone the repository by copying the project files to your local machine: 
+
 git clone https://github.com/aleami/final-project-web-development.git
 
 2️⃣ Navigate to the project directory: cd final-project-web-development
