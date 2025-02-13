@@ -2,7 +2,7 @@
 
 **🚀 _About This Project_**
 
-Welcome to **Aleenas Matblogg!** This website is a personal food blog where I share my favorite recipes and introduce ypu to Pakistani culinary culture. This project was created as part of my final coursework at Arena Academy to showcase my skills in web development using HTML and CSS.
+Welcome to **Aleenas Matblogg!** This website is a personal food blog where I share my favorite recipes and introduce you to Pakistani culinary culture. This project was created as part of my final coursework at Arena Academy to showcase my skills in web development using HTML and CSS.
 
 The goal of this project is to provide an easy-to-navigate food blog that introduces users to new recipes, pakistani cultural insights, and important information about generallaws and regulations.
 
