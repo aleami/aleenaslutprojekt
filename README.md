@@ -122,35 +122,6 @@ This project was developed as part of my coursework at Arena Academy where i stu
 
 - Organize and present food-related content in an engaging way.
 
-**🤝 Contributing to This Project**
-
-If you have any suggestions or want to contribute, feel free to fork the repository and submit a pull request. Here’s how:
-
-Fork the repository.
-
-Create a new branch for your changes:
-
-git checkout -b feature/your-feature-name
-
-Make your changes and commit them:
-
-git commit -m "Added new feature"
-
-Push the changes to your forked repository:
-
-git push origin feature/your-feature-name
-
-Submit a pull request to request a review of your changes.
-
-**✉️ Contact**
-
-If you have any questions, feel free to reach out!
-
-👤 Aleena Amir
-
-🎓 Student at Kungliga Tekniska Högskolan - KTH
-📚 Degree in information techology  
-🔗 GitHub: [Aleenas-GitHub](https://github.com/aleami)
 
 All rights reserved - © Copyright
 
