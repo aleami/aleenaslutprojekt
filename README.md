@@ -2,9 +2,9 @@
 
 **🚀 _About This Project_**
 
-Welcome to **Aleenas Matblogg!** This website is a personal food blog where I share my favorite recipes and introduce you to Pakistani culinary culture. This project was created as part of my final coursework at Arena Academy to showcase my skills in web development using HTML and CSS.
+Welcome to **Aleenas Matblogg!** This website is a personal food blog where I share my favorite recipes and introduce you to Pakistani culinary culture. This project was created as part of my final coursework at _Arena Academy_ to showcase my skills in web development using HTML and CSS.
 
-The goal of this project is to provide an easy-to-navigate food blog that introduces users to new recipes, pakistani cultural insights, and important information about generallaws and regulations.
+The goal of this project is to provide an easy-to-navigate food blog that introduces users to new recipes, pakistani cultural insights, and important information about general laws and regulations.
 
 🌟 **Features**
 
@@ -142,7 +142,7 @@ If you have any questions, feel free to reach out!
 👤 Aleena Amir
 
 🎓 Student at Kungliga Tekniska Högskolan - KTH
-📚 Currently doing my bachelors in Informaion Tecnology 
+📚 Degree in information techology  
 🔗 GitHub: [Aleenas-GitHub](https://github.com/aleami)
 
 All rights reserved - © Copyright
