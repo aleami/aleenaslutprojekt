@@ -26,34 +26,35 @@ _Homepage_
 
 Shows the main landing page with featured dishes.
 
-<img width="1418" alt="Screenshot 2025-02-13 at 20 57 40" src="https://github.com/user-attachments/assets/1e6cd2bc-5f28-47c1-8604-114474d68596" />
+<img width="1000" alt="Screenshot 2025-02-13 at 20 57 40" src="https://github.com/user-attachments/assets/1e6cd2bc-5f28-47c1-8604-114474d68596" />
 
 _Recipe Page_
 
 Displays a recipe with link to ingredients and instructions.
 
-![Recipe Page Screenshot](![image](https://github.com/user-attachments/assets/bfac422f-3ac8-4ec5-a5db-718a869cff13)
-)
+<img width="1000" alt="Screenshot 2025-02-13 at 20 59 00" src="https://github.com/user-attachments/assets/4c848a87-1c27-4fc3-aa6c-56efae0cb83c" />
+
 
 _Pakistani Food Culture Page_
 
 Contains insights and descriptions about Pakistani food traditions.
 
-![Culture Page Screenshot](![image](https://github.com/user-attachments/assets/3729577c-ab90-47b7-a2ce-60a42c8f3888)
-)
+<img width="1000" alt="Screenshot 2025-02-13 at 21 01 00" src="https://github.com/user-attachments/assets/e98ad50b-8473-4835-8fc4-a489b963a793" />
+
 
 _Laws & Regulations Page_
 
 Provides information about laws and regulations.
 
-![Laws Page Screenshot](![image](https://github.com/user-attachments/assets/f79c700c-0488-42bf-8928-7324f7be60df)
-)
+<img width="1000" alt="Screenshot 2025-02-13 at 20 59 38" src="https://github.com/user-attachments/assets/f23ba4b9-68c6-444e-91e9-560f71d08947" />
+
 
 _Om oss_
 
 About us page, a description about me.
 
-![About us page Screenshot](![image](https://github.com/user-attachments/assets/6bc88594-5ffd-408e-81d0-657f50e87224))
+<img width="1000" alt="Screenshot 2025-02-13 at 21 10 18" src="https://github.com/user-attachments/assets/d380da93-17ff-4468-845b-acc329cd9c01" />
+
 
 **📸 Image Credits**
 
